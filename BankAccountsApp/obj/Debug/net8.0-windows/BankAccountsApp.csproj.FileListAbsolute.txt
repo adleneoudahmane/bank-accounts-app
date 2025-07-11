@@ -1,0 +1,16 @@
+C:\Users\adlen\Documents\c#\BankAccountsApp\BankAccountsApp\bin\Debug\net8.0-windows\BankAccountsApp.exe
+C:\Users\adlen\Documents\c#\BankAccountsApp\BankAccountsApp\bin\Debug\net8.0-windows\BankAccountsApp.deps.json
+C:\Users\adlen\Documents\c#\BankAccountsApp\BankAccountsApp\bin\Debug\net8.0-windows\BankAccountsApp.runtimeconfig.json
+C:\Users\adlen\Documents\c#\BankAccountsApp\BankAccountsApp\bin\Debug\net8.0-windows\BankAccountsApp.dll
+C:\Users\adlen\Documents\c#\BankAccountsApp\BankAccountsApp\bin\Debug\net8.0-windows\BankAccountsApp.pdb
+C:\Users\adlen\Documents\c#\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.Form1.resources
+C:\Users\adlen\Documents\c#\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.csproj.GenerateResource.cache
+C:\Users\adlen\Documents\c#\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adlen\Documents\c#\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.AssemblyInfoInputs.cache
+C:\Users\adlen\Documents\c#\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.AssemblyInfo.cs
+C:\Users\adlen\Documents\c#\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.csproj.CoreCompileInputs.cache
+C:\Users\adlen\Documents\c#\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.dll
+C:\Users\adlen\Documents\c#\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\refint\BankAccountsApp.dll
+C:\Users\adlen\Documents\c#\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.pdb
+C:\Users\adlen\Documents\c#\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.genruntimeconfig.cache
+C:\Users\adlen\Documents\c#\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\ref\BankAccountsApp.dll
